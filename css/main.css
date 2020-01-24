@@ -1,0 +1,12 @@
+body {
+  background: #f5eee6;
+  font-family: 'Open Sans', sans-serif;
+}
+h1, h2 {
+  font-family: 'Alata', sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
